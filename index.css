@@ -1,0 +1,7 @@
+body { background-image: url(Imagenes/R.jpg);
+background-position: center;
+background-attachment: fixed;
+background-repeat: no-repeat;
+background-size: cover;
+}
+h2 {color: aliceblue;}
